@@ -16,7 +16,7 @@ function close(){
     mainMenu.style.top = '-100%';
 }
 function close1(){
-  mainMenu.style.top = '-100%';
+  mainMenu.style.top = '110%';
   mainMenu.style.display = 'flex';
     // mainMenu.style.top = '0';
 }
